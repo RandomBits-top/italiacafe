@@ -2,7 +2,7 @@
 Unofficial Guide to [Italia Cafe 1](https://italiacafe.ca/products/italia-cafe-i) super automatic espresso machine (distributed by RedFern)
 The Italia Cafe is a new to market 19 BAR with a Italian Ulka pump super automatic machine for the home show market by RedFern.   
 
-![Pic of machine](/images/machine.jpg?raw=true)
+![Pic of machine](images/machine.jpg?raw=true)
 
 ## Manual
 [Online Manual](https://cdn.shopify.com/s/files/1/3098/0678/files/Italia_Cafe_I_Manual.pdf?v=1743791908)
