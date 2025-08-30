@@ -13,6 +13,7 @@ The Italia Cafe is a new to market 19 BAR with a Italian Ulka pump super automat
 
 The menu on the machine breaks drinks into coffee, milk, two cup, bypass, and extra shot coffee categories:
 * Coffee
+    * These drinks are the non-milk espresso or drip style coffees.  
   * Hot water
   * Espresso
   * Coffee
