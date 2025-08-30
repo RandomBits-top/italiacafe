@@ -26,7 +26,7 @@ The menu on the machine breaks drinks into coffee, milk, two cup, bypass, and ex
 |Coffee|Hot Water||180ml|Medium|||||
 |Coffee|Green Tea||180ml|Low|||||
 |Milk|Cortado|10|30ml|High|||6s||aprox 1 part espresso 1 part milk
-|Milk|Latte Machiati|10ml|45|High|||36s|10|Milk first then coffee
+|Milk|Latte Machiatio|10|45ml|High|||36s|10|Milk first then coffee
 |Milk|Macchiato|10|30ml|High|||3s||aka Espresso Machiatto
 |Milk|Flat White|6|50ml|Medium|||20||Less milk then a latte, less foam then a machiatto
 |Milk|Cappuccino|10|60ml|Medium|||24s||
@@ -43,12 +43,12 @@ The menu on the machine breaks drinks into coffee, milk, two cup, bypass, and ex
 |Ground|Espresso Doppio|10|90ml|High|||||Double shot|
 |Ground|Lungo|10|90ml|Medium|||||Long Pull|
 |Ground|Cortado|10|30ml|High|||6s||aprox 1 part espresso 1 part milk
-|Ground|Latte Machiati|10ml|45|High|||36s|10|Milk first then coffee
+|Ground|Latte Machiatio|10|45ml|High|||36s|10|Milk first then coffee
 |Ground|Macchiato|10|30ml|High|||3s||aka Espresso Machiatto
 |Ground|Flat White|6|50ml|Medium|||20||Less milk then a latte, less foam then a machiatto
 |Ground|Cappuccino|10|60ml|Medium|||24s||
 |Ground|Caffe latte|6|75ml|Medium|||36s|||
-|DoubleShot|Latte Machiati|10ml|45|High|||36s|10|Milk first then coffee
+|DoubleShot|Latte Machiatio|10|45ml|High|||36s|10|Milk first then coffee
 |DoubleShot|Cappuccino|10|60ml|Medium|||24s||
 |DoubleShot|Flat White|6|50ml|Medium|||20||Less milk then a latte, less foam then a machiatto
 |DoubleShot|Caffe latte|6|75ml|Medium|||36s|||
