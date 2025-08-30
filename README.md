@@ -54,10 +54,20 @@ The menu on the machine breaks drinks into coffee, milk, two cup, bypass, and ex
 |DoubleShot|Caffe latte|6|75ml|Medium|||36s|||
 
 # Cleaning
-The manual references a couple of cleaning cycles.     The important thing to note is the machine rinses itself on startup and shutdown.  It can be handy to leave a cup under the dispenser as it is a fair bit of water that ends up in the drip tray.       The manual references doing a daily cleaning of the milk system using a milk system cleaning detergent.    Lots of these available for larger name brand machines.   The 3 min milk system cleaning essentially tells you to fill a container with the cleaning solution and insert the milk tube.  It then flushes milk system with the detergent.     It then tells you to replace with clean water.  It then flushes with clean water.   As a simple flush you can simply use water twice.    It flushes a fair bit of water, so prepare to use a full mug of water (twice) and a mug under the dispenser (that you will empty between the two phases).   
+## Startup and Shutdown
+The machine runs a rinse cycle when it is turned on or off.   Consider keeping a cup under the dispenser spout.
+## Milk System Cleaning
+The 3 minute milk cleaning routine has two main phases:
+1. Flush the system with detergent
+2. Flush the system with clean water.
+
+The manual references using a detergent but supplies no further detail.   Most of the brand name espresso machines with milk has some sort of detergent available at coffee retailers or amazon.    It is usally mixed with water.
+
+If you you simply want to rinse the milk system simply fill your container with water.   I use two mug - one filled with water and one under the dispensing spout. Let it run through the detergent phase, then dump the waster water and refill the fresh water jug before hitting ok to run the clean water rinse.
 
 # Programming and Adjustments
-There are 6 user profiles.   Each recipe can be tweaked to your reference and the recipies are saved per user profile.   There is no way of labelling the user profiles.
+There are 6 user profiles.   Each recipe can be tweaked to your reference and the recipies are saved per user profile.  The details in the drinks list above are the default settings and give you an idea of the areas of available adjustment.
+
 
 
 
