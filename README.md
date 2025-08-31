@@ -58,6 +58,35 @@ The menu on the machine breaks drinks into coffee, milk, two cup, bypass, and ex
 > 
 > The manual does not specify, but presumably the "Strokes" option under the "Jug of Coffee" is how many times the recipe repeats.
 
+# My Drink Preferences
+
+![Coffee Samples](images/coffees.jpg?raw=true)
+Machiatto, Latte, and a Flat White for taste tests.
+
+Working my way through various recipies to find what which variations work best (and which way will brew fasest).   I am doing all the tests with same beans (samples received with the machine).    (For reference, by previous home coffee prep was  a 17:1 single cup pour over or an americano from the nespresso.    I have an HFL super automatic at work where the coffee, americano, cortado and flatwhite are my preferences.)
+
+## Milk Drinks
+
+Top 3 so far are:
+1. Latte Machiatto
+2. Cortado
+3. Flat White
+
+The Caffe Latte was too much milk and not strong enough coffee flavour for my preferences.    The Cortado was very nice balance, through transparently, haven't tried the espresso machiatto to compare. Varitions on the to test list:
+* Double shot Machiatto
+* Increased strength flatwhite
+
+## Coffee Drinks
+Favorite so far is a doppio followed by 130ml hot water.   I will have have to re test coffee at strenght 10 vs americano vs doppio + water again.
+
+I also will need to time an espresso shot plus an americano vs a doppio plus a hot water to see if either order makes a difference in total brew time.   I will also test upping the ocffee portion of the maericano to 90ml, but I expect that might simply make a long pull instead of double the coffee.   Not *quite* enough control to fully dial-in the Americano.   
+
+Variations to test:
+* Double Lungo
+*  Americano (increase coffee volume)
+*  Americano (decrease water volume and run twice)
+*  Double shot latte with 0s of milk (Can I trick the machine into making me a double americano with one button?)
+
 # Cleaning
 The manual describes the main cleaning functions in detail, but was a little light around the startup and milk cleaning options.
 
@@ -76,6 +105,12 @@ The manual references using a detergent but supplies no further detail.   Most o
 # Programming and Adjustments
 The manual has good screenshots of the various settings options.  There are 6 user profiles.   Each recipe can be tweaked to your reference and the recipies are saved per user profile.  The details in the drinks list above are the default settings and give you an idea of the areas of available adjustment.
 
+## My Adjustments
+* Coffee stregth to 10.   6 was too watery for my tastes.
+* Water volume down to 130
+
+## Future Hacks
+Might need to add a Fingerbot (tiny IOT devices that manually pressed buttons).   I think I'd prefer if the machine started it's warm-up before I entered the kitchen.   Will have to wait and see on that one.
 
 
 
