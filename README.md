@@ -85,7 +85,7 @@ Variations to test:
 * Double Lungo
 *  Americano (increase coffee volume)
 *  Americano (decrease water volume and run twice)
-*  Double shot latte with 0s of milk (Can I trick the machine into making me a double americano with one button?)
+*  ~Double shot latte with 0s of milk (Can I trick the machine into making me a double americano with one button?)~ 1s is the lowest it will go.
 
 # Cleaning
 The manual describes the main cleaning functions in detail, but was a little light around the startup and milk cleaning options.
