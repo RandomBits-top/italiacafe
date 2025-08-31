@@ -1,4 +1,4 @@
-# italiacafe
+# Italia Cafe
 Unofficial Guide to [Italia Cafe 1](https://italiacafe.ca/products/italia-cafe-i) super automatic espresso machine (distributed by RedFern)
 The Italia Cafe is a new to market 19 BAR with a Italian Ulka pump super automatic machine for the home show market by RedFern.   
 
@@ -54,12 +54,12 @@ The menu on the machine breaks drinks into coffee, milk, two cup, bypass, and ex
 |DoubleShot|Caffe latte|6|75ml|Medium|||36s|||
 
 > [!NOTE]
-> The "Interval" parameter is a specific to the latte macchiato recipes. The "Interval" parameter is the time allowed for the milk foam to form.  The interval can be set between 20 and 60 seconds and affects the temperature and taste of the beverage.
+> The "Interval" parameter is specific to the latte macchiato recipes. The "Interval" parameter is the time allowed for the milk foam to form.  The interval can be set between 20 and 60 seconds and affects the temperature and taste of the beverage.
 > 
 > The manual does not specify, but presumably the "Strokes" option under the "Jug of Coffee" is how many times the recipe repeats.
 
 # Cleaning
-The manual describe the main cleaning functions in details, but was a little light around the startup and milke cleaning options.
+The manual describes the main cleaning functions in detail, but was a little light around the startup and milk cleaning options.
 
 ## Startup and Shutdown
 The machine runs a rinse cycle when it is turned on or off.   Consider keeping a cup under the dispenser spout.
@@ -71,7 +71,7 @@ The 3 minute milk cleaning routine has two main phases:
 The manual references using a detergent but supplies no further detail.   Most of the brand name espresso machines with milk has some sort of detergent available at coffee retailers or amazon.    It is usally mixed with water.
 
 > [!TIP]
-> If you you simply want to rinse the milk system simply fill your container with water.   I use two mugs - one filled with water and one under the dispensing spout. Let it run through the detergent phase, then dump the waster water and refill the fresh water jug before hitting ok to run the clean water rinse.
+> If you you simply want to rinse the milk system simply fill your container with water.   I use two mugs - one filled with water and one under the dispensing spout. Let it run through the detergent phase, then dump the waste water and refill the fresh water  before hitting ok to run the clean water rinse.
 
 # Programming and Adjustments
 The manual has good screenshots of the various settings options.  There are 6 user profiles.   Each recipe can be tweaked to your reference and the recipies are saved per user profile.  The details in the drinks list above are the default settings and give you an idea of the areas of available adjustment.
