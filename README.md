@@ -102,6 +102,44 @@ The manual references using a detergent but supplies no further detail.   Most o
 > [!TIP]
 > If you you simply want to rinse the milk system simply fill your container with water.   I use two mugs - one filled with water and one under the dispensing spout. Let it run through the detergent phase, then dump the waste water and refill the fresh water  before hitting ok to run the clean water rinse.
 
+## Full Clean & Descaling
+* Machine will prompt you after 200 cups for the 20 min cleaning cycle - requires a cleaning tablet.
+* Machine will prompt when desczling is needed - requires descaling detergent.
+
+## Cleaning Products
+Caffe Nu is well rated on Amazon as generic super automatic cleaning supplies.    Never tested them.
+* [Caffe Nu Milk Frother Cleaner (Amazon.ca)](https://www.amazon.ca/dp/B09R7SW1TQ?tag=simsay02-20)
+* [Caffe Nu Cleaning Tablets (Amazon.ca)](https://www.amazon.ca/dp/B09QQTHCRH?tag=simsay02-20)
+* [Caffe Nu Descaler (Amazon.ca)](https://www.amazon.ca/dp/B0731HYHHZ?tag=simsay02-20)
+
+## AI Summary of Manual
+
+I fed the manual into an LLM and asked it to summarize the maintaince requirments.
+
+### Daily and Regular Cleaning
+
+* Appliance Body: Wipe the exterior with a damp, non-abrasive cloth and mild detergent to avoid scratching or damaging surfaces. Do this as needed.
+* Water Tank: Rinse and dry the tank regularly.
+* Drip Tray and Coffee Grounds Container: Empty, rinse, and dry daily or when the display prompts during use. Disassemble components if necessary, then reassemble and insert back into place.
+* Milk Dispensing Spout and Milk Suction Tube: Clean after each use of milk-based beverages. Use the cleaning needle provided to remove scale deposits from the spout hole. Run the "Clean the Milk System" program daily if milk beverages were prepared.
+Coffee Beans Container: Clean before first use and as needed.
+
+### Maintenance Programs (Accessed via Settings Menu)
+These programs can be started manually and guide you via the display. Follow on-screen steps.
+
+* Clean the Milk System Program: Duration ~about 20 minutes [AI error]~ 3 minutes. Starts automatically 8 minutes after milk beverage preparation if not done manually. Place a container under the spout.
+* Rinse Program: Automatically runs on startup and shutdown to clean internal circuits. Can be started manually for additional rinsing.
+* Clean Program: General cleaning cycle for the appliance, duration 20 minutes. Run when the "CLEAN" indicator lights up.
+* Descaling: Required when the "DESCALE" indicator lights up (frequency depends on water hardness setting). Follow display instructions; uses a descaling solution.
+* Emptying the Internal Circuits: For long-term storage or to prevent freezing. Empties remaining water from circuits.
+
+### Additional Notes
+
+* Automatic rinsing occurs on every startup and shutdown, dispensing waste water from the spouts.
+* Use only authorized parts and avoid improper substances to prevent damage.
+* The machine has indicators for descaling, milk cleaning, and general cleaning needs.
+* For warranty, avoid unauthorized maintenance.
+
 # Programming and Adjustments
 The manual has good screenshots of the various settings options.  There are 6 user profiles.   Each recipe can be tweaked to your reference and the recipies are saved per user profile.  The details in the drinks list above are the default settings and give you an idea of the areas of available adjustment.
 
